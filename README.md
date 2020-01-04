@@ -1,5 +1,3 @@
-**
-
 # Node Express - Backend Services - edumarreto
 
 
